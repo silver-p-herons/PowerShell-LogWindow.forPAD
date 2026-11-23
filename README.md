@@ -1,0 +1,2 @@
+# PowerShell-LogWindow.forPAD
+PADからConsoleLogしたい時に使うPowerShellスクリプト
